@@ -2,7 +2,7 @@
     "name": "Zaid Vc Player",
     "description": "Music allow you to stream music trought the telegram voice chat feature.",
     "keywords": ["Zaid", "Zaid-Vc-Player", "music", "voice chat", "telegram", "Yukki", "Yukki Music", "Private Music"],
-    "repository": "https://github.com/ITZ-ZAID/Zaid-Vc-Player",
+    "repository": "https://github.com/babymid/Zaid-Vc-Playerj",
   "stack": "container",
     "env": {
         "SESSION_NAME": {
@@ -51,7 +51,7 @@
         },
         "REPO_URL": {
             "description": "Your Edited Repo Url Else Leave Blank",
-            "value": "https://github.com/ITZ-ZAID/Zaid-Vc-Player"
+            "value": "https://github.com/babymid/Zaid-Vc-Playerj"
         },
         "BOT_TOKEN": {
             "description": "fill with your bot token get from @BotFather on telegram",
